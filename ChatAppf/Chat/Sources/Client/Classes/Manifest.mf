@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 2.0 (Jeeva S)
+Specification-Title: "Jeeva Chat"
+Main-Class: com.jeeva.chatclient.ChatClient
